@@ -40,8 +40,17 @@ Average bill: 2985.4
 Correlation Matrix:
  [[1. 1.]
  [1. 1.]]
+ ---
 ---
-
+This repository contains a Python file **`numpytask.py`** which demonstrates the use of **NumPy** for real-world data analysis.  
+The file covers:
+- Exam Scores Statistical Analysis (Mean, Median, Standard Deviation)
+- Students scoring above average
+- Sales Data (Quarterly sales extraction)
+- Employee Salary Increment
+- Random Transactions (Min, Max, Average)
+- Study Hours vs Exam Scores Correlatio
+---
 ---
 🎯 Learnings
 
