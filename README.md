@@ -50,7 +50,6 @@ The file covers:
 - Random Transactions (Min, Max, Average)
 - Study Hours vs Exam Scores Correlatio
 ---
----
 🎯 Learnings
 
 Using NumPy arrays for real-world data
