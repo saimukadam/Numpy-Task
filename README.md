@@ -41,7 +41,6 @@ Correlation Matrix:
  [[1. 1.]
  [1. 1.]]
  ---
----
 This repository contains a Python file **`numpytask.py`** which demonstrates the use of **NumPy** for real-world data analysis.  
 The file covers:
 - Exam Scores Statistical Analysis (Mean, Median, Standard Deviation)
