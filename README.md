@@ -52,13 +52,10 @@ The file covers:
 ---
 🎯 Learnings
 
-Using NumPy arrays for real-world data
-
-Performing statistical operations
-
-Generating random datasets
-
-Correlation analysis with NumPy
+- Using NumPy arrays for real-world data
+- Performing statistical operations
+- Generating random datasets
+- Correlation analysis with NumPy
 ---
 
 👤 Author
